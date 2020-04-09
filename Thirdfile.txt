@@ -1,8 +1,6 @@
 This is third file.
 Issue fixed.
-
 in newbranch
-
 again issue.
 issue fixed
 
